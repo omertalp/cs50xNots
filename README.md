@@ -1,0 +1,2 @@
+# cs50xNots
+My nots for  CS50x course
